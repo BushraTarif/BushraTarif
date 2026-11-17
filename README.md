@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bushra-tarif-a798232a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/BushraTarif/"><img src="https://img.shields.io/badge/LeetCode-My%20Progress-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<img src="https://img.shields.io/badge/Based%20in-Islamabad-2ea44f?style=for-the-badge" alt="Islamabad"/>
   <img src="https://img.shields.io/badge/Open%20to-PhD%20Opportunities-8A2BE2?style=for-the-badge" alt="Open to PhD opportunities"/>
 </p>
 
