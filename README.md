@@ -19,7 +19,6 @@ I believe the best way to understand a model is to build it, break it, and then 
 ## Research Interests
 
 - **Human-Computer Interaction (HCI)** and how people experience technology
-- **Games research**: game design, player behaviour and the psychology of play
 - **Deep learning** for real-world problems
 - **Remote sensing**: satellite and radar (SAR) imagery for climate and disaster response
 
