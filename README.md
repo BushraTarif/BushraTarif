@@ -69,10 +69,6 @@ I believe the best way to understand a model is to build it, break it, and then 
 ## GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BushraTarif&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BushraTarif&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=BushraTarif&theme=default&hide_border=true" alt="GitHub streak"/>
 </p>
 
