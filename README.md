@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bushra-tarif-a798232a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-Islamabad-2ea44f?style=for-the-badge" alt="Islamabad"/>
+  <a href="https://leetcode.com/u/BushraTarif/"><img src="https://img.shields.io/badge/LeetCode-My%20Progress-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<img src="https://img.shields.io/badge/Based%20in-Islamabad-2ea44f?style=for-the-badge" alt="Islamabad"/>
   <img src="https://img.shields.io/badge/Open%20to-PhD%20Opportunities-8A2BE2?style=for-the-badge" alt="Open to PhD opportunities"/>
 </p>
 
@@ -64,6 +65,13 @@ I believe the best way to understand a model is to build it, break it, and then 
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+## LeetCode Progress
+
+<p align="center">
+<a href="https://leetcode.com/u/BushraTarif/"><img src="https://leetcard.jacoblin.cool/BushraTarif?theme=light&font=Baloo&ext=heatmap" alt="LeetCode stats for BushraTarif"/></a>
+</p>
+<p align="center"><i>Click the card to see all my solved problems on LeetCode.</i></p>
 
 ## GitHub Activity
 
